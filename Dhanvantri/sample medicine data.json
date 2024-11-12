@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Paracetamol",
+      "formula": "Acetaminophen 500mg",
+      "price": 15.99,
+      "manufacturing": "Pfizer",
+      "expiry": "2024-12-31",
+      "image": "paracetamol.jpg",  
+      "company": "Pfizer",
+      "description": "Relief from fever, headache, and body pain."
+    },
+    {
+      "name": "Ibuprofen",
+      "formula": "Ibuprofen 400mg",
+      "price": 25.00,
+      "manufacturing": "GSK",
+      "expiry": "2025-08-15",
+      "image": "ibuprofen.jpg",
+      "company": "GSK",
+      "description": "Pain relief, anti-inflammatory."
+    }
+  ]
+  
